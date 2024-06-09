@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/.a69e0349d425cbba528f361a9a5f2e629e526e31-audit.json",
+    "files": [
+        {
+            "date": 1717868623487,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-08-06-23-error.log",
+            "hash": "5badd8791055056be2b3d2229893d3ac84b84d16a0d5e15d1cc3e242c2eb84c9"
+        },
+        {
+            "date": 1717869868152,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-00-error.log",
+            "hash": "8f13f5d841540912c1104ae26a7c1576fdf935007fd898ac60bcaea3debf8428"
+        },
+        {
+            "date": 1717874241962,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-01-error.log",
+            "hash": "0f4b1f3e3d52a9013a65f4171e086b0d6eebc9e4516f6ab938f2f073085f187e"
+        },
+        {
+            "date": 1717876931142,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-02-error.log",
+            "hash": "9bb8c8272d8beb21a85911127bf31d5ab1c834301e52dc90074b2bd4d1809077"
+        },
+        {
+            "date": 1717880439146,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-03-error.log",
+            "hash": "4919dce8e80af7b35f57ff3bf9d7585ab51d20f402de1d946785c2d3e0f44f2b"
+        },
+        {
+            "date": 1717909441507,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-11-error.log",
+            "hash": "b6da2773cf80288cb79b147defcfc4212fddd224b560d35330af6c73fdcdbff4"
+        },
+        {
+            "date": 1717931875013,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-17-error.log",
+            "hash": "795b34f70ac505999c50081385f379a9e17ba9527a65d795a335227bf4deab49"
+        },
+        {
+            "date": 1717934577715,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-18-error.log",
+            "hash": "9d7c4dab80708d36656f575428c2e78fe2da1d2c46ddfd984165ecd12137201e"
+        },
+        {
+            "date": 1717940183950,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-19-error.log",
+            "hash": "e81783a85e460c72250e0851f63805522122d508fa0e323e377344885f476869"
+        },
+        {
+            "date": 1717944445549,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-20-error.log",
+            "hash": "ef135d71ced8dca5eaaa768f76f1dac12416d1ea4817d86198dff3fa9fbe59e2"
+        },
+        {
+            "date": 1717950346746,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-22-error.log",
+            "hash": "95f111b8f0cb1e4b40ad7423ee026f4c56e7d6c55bfaed11d1661fe8a5488a83"
+        },
+        {
+            "date": 1717952486430,
+            "name": "/home/hasib/Documents/projects/task/event-manager/logs/winston/errors/phu-2024-09-06-23-error.log",
+            "hash": "0ae742a90c7f5b67b88eb64e52f704ea8425f51986552c973cb820b8163e70f1"
+        }
+    ],
+    "hashType": "sha256"
+}
