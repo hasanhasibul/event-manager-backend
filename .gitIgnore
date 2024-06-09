@@ -1,5 +1,6 @@
-node_modules
-.env
+
 yarn-error
-logs
-dist
+logs/
+dist/
+node_modules/
+.env*
